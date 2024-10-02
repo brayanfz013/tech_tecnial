@@ -1,0 +1,9 @@
+connection_data_source:
+  postgresql:
+    host: localhost
+    database: postgres
+    user: postgres
+    password: postgres
+    port: 5434
+    options: -c search_path=dbo,public
+  # engine: psycopg2
