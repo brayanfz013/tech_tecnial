@@ -106,3 +106,20 @@ variables que te interesen modelar.
 **¿Qué debes enviar en este punto?**
 
     Un archivo en el lenguaje de programación preferido con la solución.
+
+
+
+# Solucione y entregables
+Se entrega el repositorio completo con los enlaces a los archivos igualemente se envia un zip con los documentos aparter pedido
+los para ejecutar el codigo se tiene las especificaciones del versionamiento de python como de los paquetes en el archivo [`pyproject`](pyproject.toml)
+
+## Primera parte – Sql
+los archivos de la socion estan son estos enlaces [`“creacion_tablas”`](src/data/sql/creacion_tablas.sql) y [`“solución_queries”`](src/data/sql/solución_queries.sql).
+
+
+## Segunda parte – ML
+EL PDF explicando el codigo se encuetra [`aqui`](src/SegundoPunto.pdf) igualmente esta su version en [`html`](src/SegundoPunto.html) para cualquiera tipo de revision 
+
+
+## Tercera parte – Api’s
+El archivo de python generado se encuentra en : [`Codigo solucion`](<src/Tercera Parte API.py>)
