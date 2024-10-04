@@ -47,12 +47,12 @@ from sklearn.metrics import (
     make_scorer,
     recall_score,
 )
-from sklearn.model_selection import GridSearchCV, train_test_split
-from sklearn.pipeline import Pipeline
-from sklearn.preprocessing import LabelEncoder, MinMaxScaler, StandardScaler
-from sklearn.svm import SVC
-from sklearn.tree import DecisionTreeClassifier
-from xgboost import XGBClassifier
+from sklearn.model_selection import GridSearchCV, train_test_split  # noqa: E402
+from sklearn.pipeline import Pipeline  # noqa: E402
+from sklearn.preprocessing import LabelEncoder, MinMaxScaler, StandardScaler  # noqa: E402
+from sklearn.svm import SVC  # noqa: E402  # noqa: E402
+from sklearn.tree import DecisionTreeClassifier  # noqa: E402
+from xgboost import XGBClassifier  # noqa: E402
 
 # sns.set_context("notebook")
 torch.backends.cudnn.benchmark = True  # Para mejorar el rendimiento en GPU

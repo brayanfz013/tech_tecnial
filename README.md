@@ -120,6 +120,8 @@ los archivos de la socion estan son estos enlaces [`“creacion_tablas”`](src/
 ## Segunda parte – ML
 EL PDF explicando el codigo se encuetra [`aqui`](src/SegundoPunto.pdf) igualmente esta su version en [`html`](src/SegundoPunto.html) para cualquiera tipo de revision 
 
+El codigo solucion se encuentra tanto en [`notebook`](src/notebooks/PrimerPunto_educacion.ipynb) como en [`script`](<src/Segunda Parte ML.py>)
+
 
 ## Tercera parte – Api’s
 El archivo de python generado se encuentra en : [`Codigo solucion`](<src/Tercera Parte API.py>)
